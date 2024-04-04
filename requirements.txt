@@ -1,0 +1,6 @@
+zstandard
+requests
+pymongo
+scipy
+sortedcontainers
+praw
