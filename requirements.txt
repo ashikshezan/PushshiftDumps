@@ -4,3 +4,4 @@ pymongo
 scipy
 sortedcontainers
 praw
+loguru
